@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-22T01:58:12.470Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="A3Tj1qpGFqAjZphXstum" version="21.0.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-03-22T02:02:17.644Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="6PVKJ-bU0gSKKG_Sm0oe" version="21.0.7" type="github" pages="2">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="3398" dy="1206" grid="0" gridSize="38" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFF5F5" math="0" shadow="0">
       <root>
@@ -316,6 +316,15 @@
         </mxCell>
         <mxCell id="Rnx9jyJYwGOWn3wZKDuN-40" value="s&#39;inscrire" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="683" y="215" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iMuxEZj3B-Y0SZkvLY6u-1" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="520" y="474" as="sourcePoint" />
+            <mxPoint x="680" y="474" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iMuxEZj3B-Y0SZkvLY6u-2" value="payer une réservation" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="676" y="432" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
